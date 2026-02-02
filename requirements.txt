@@ -1,0 +1,12 @@
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.38
+langchain-openai
+chromadb==0.5.5
+sentence-transformers
+openai
+fastapi
+uvicorn
+streamlit
+pypdf
+python-dotenv
