@@ -28,7 +28,7 @@ if __name__ == "__main__":
     frontend = start(["streamlit", "run", "ui/streamlit_app.py"])
     processes.append(frontend)
 
-    print("App running 🚀  Press CTRL+C to stop.")
+    print("App running Press CTRL+C to stop.")
 
     while True:
         time.sleep(1)
