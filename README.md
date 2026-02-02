@@ -12,7 +12,8 @@ This project demonstrates :
 
 
 To run program first install all requirements (pip install -r requirements.txt)
-instll ollama (ollama pull llama3.1:8b)
+instll ollama from https://ollama.com/ (ollama pull llama3.1:8b)
 add you pdf @ (eg:data/resume.pdf)
 python run.py
 
+Note: Install dependencies and LLM(ollama) in a virtual environment.
